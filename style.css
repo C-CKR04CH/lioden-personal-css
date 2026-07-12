@@ -1,0 +1,13 @@
+.container.main::before {
+background-image: url('https://i.postimg.cc/BQW1h5f8/tumblr-35ee89c4026bdfb3c7e5e7917afa1676-4e074108-1280.png');
+background-repeat: no-repeat;
+background-size: contain;
+position: fixed;
+display: block;
+height: 200px;
+width: 200px;
+right: 25px;
+bottom: -5px;
+z-index: 100;
+pointer-events: none;
+}
