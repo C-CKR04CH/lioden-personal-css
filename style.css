@@ -12,3 +12,7 @@ bottom: -5px;
 z-index: 100;
 pointer-events: none;
 }
+.navbar-header > a > img {
+content: url('https://i.postimg.cc/TwG9tGRv/tumblr-4dec8529c7e2e2e2e55574319e080bad-009ce401-400.png');
+width: 200px;
+}
